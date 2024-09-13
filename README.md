@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 🔭 I'm currently working on personal projects focused on expanding my programming skills.<br>👯 I'm looking to collaborate on software development projects, especially those that can help me apply and grow my knowledge of new technologies.<br>🤝I'm looking for help with advanced C# concepts and exploring more about [insert other interesting languages you’re adding.<br>🌱 I'm currently learning: C#, and I’m exploring additional languages that catch my interest.<br>💬Ask me about: My journey as an IT/software engineering intern, my experiences with various programming languages, and my favourite anime series.<br>⚡ Fun fact: I’m an avid anime fan, love coding, enjoy gaming, reading tech blogs, and exploring the latest in software development.
 
 
